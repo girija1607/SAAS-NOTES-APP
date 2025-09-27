@@ -6,7 +6,7 @@ A fully functional multi-tenant notes application built with Next.js, Prisma, an
 
 ## 🚀 Live Application
 
-**URL:** `[Yahan apna Vercel URL paste karein]`
+**URL:** `https://saas-notes-app-blue.vercel.app/`
 
 ---
 
